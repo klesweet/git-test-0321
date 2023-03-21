@@ -4,5 +4,6 @@ public class GitTest {
         System.out.println("master modify");
         System.out.println("fix-hot modify");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
